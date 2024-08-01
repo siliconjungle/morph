@@ -6,6 +6,10 @@ An attempt at creating a file format which stores the history of changes to mult
 
 There's an idea of bring your own client. What about bring your own modality? I should be able to open a podcast in my favourite text editor and edit the transcript. I should be able to open a video in my favourite audio editor and edit the sound. I should be able to open images in 3D modelling software and generate 3D models from them.
 
+## History & Context
+
+The history of the file should be captured as it provides rich context that can be used to better inform transformations across modalities.
+
 ## File extension proposals
 
 - .morph
